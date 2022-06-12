@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "496643887527",
+    "firebase_url": "https://eldriodproject-9dd99-default-rtdb.firebaseio.com",
+    "project_id": "eldriodproject-9dd99",
+    "storage_bucket": "eldriodproject-9dd99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496643887527:android:57a9c388fa5c58728be682",
+        "android_client_info": {
+          "package_name": "com.example.StudentsApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496643887527-pp4b0avi0prtvd1vts06e690sccb9vit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPv-WT1VfP5cZQ_IIG53W-BlfM9X0rkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496643887527-pp4b0avi0prtvd1vts06e690sccb9vit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496643887527:android:e2d1a6f49b12e2818be682",
+        "android_client_info": {
+          "package_name": "com.example.demofirebasetorecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496643887527-pp4b0avi0prtvd1vts06e690sccb9vit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPv-WT1VfP5cZQ_IIG53W-BlfM9X0rkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496643887527-pp4b0avi0prtvd1vts06e690sccb9vit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
